@@ -1,0 +1,4 @@
+exe{cpp_config_test}: {hxx cxx}{**}
+{
+  test = true
+}
